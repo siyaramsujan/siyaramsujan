@@ -1,7 +1,7 @@
 <h1 >Jay Shree Ram!</h1>
 
 <p align="center">
-<img src="https://media.tenor.com/QbGeAiysJkYAAAAM/work-and-sleep-work-sleep.gif" alt="gif" />
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/9c0d2243836113.57fe73e1e3867.gif" alt="gif" />
 
 </p>
 
