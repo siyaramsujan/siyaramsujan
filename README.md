@@ -2,7 +2,7 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/9c0d2243836113.57fe73e1e3867.gif" alt="gif" />
 </p>
 
-### Hi there! 👋
+### Hare Krishna! 👋
 I'm Sujan, a passionate fullstack developer specializing in building scalable web-applications. I love tackling complex problems and bringing ideas to life through code.
 
 ### 🌟 Currently working on:
