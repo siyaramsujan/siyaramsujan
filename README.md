@@ -9,7 +9,7 @@ I'm Sujan, a passionate fullstack developer specializing in building scalable we
 Ordersphere – A system designed for businesses to efficiently manage client orders and deliver real-time updates to the clients.
 
 ### 🛠️ Exploring: 
-GraphQL APIs, Go, Docker, Kubernetes and many more exciting technologies shaping the future of development.
+GraphQL APIs, Go, Docker and many more exciting technologies shaping the future of development.
 
 ### **Languages**
 | <img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png" /> | <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" /> | <img title="Typescript" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" /> |  <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img title="NodeJS" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" /> |
