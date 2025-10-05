@@ -6,7 +6,8 @@
 I'm Sujan, a passionate fullstack developer specializing in building scalable web-applications. I love tackling complex problems and bringing ideas to life through code.
 
 ### 🌟 Currently working on:
-Ordersphere – A system designed for businesses to efficiently manage client orders and deliver real-time updates to the clients.
+**Comparelly** – A browser extension that helps users make smarter shopping decisions by comparing products across different platforms. It displays key details such as product ratings, review summaries, and prices in a clean, modern UI, enabling faster and more confident purchases.
+
 
 ### 🛠️ Exploring: 
 GraphQL APIs, Go, Docker and many more exciting technologies shaping the future of development.
