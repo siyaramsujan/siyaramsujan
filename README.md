@@ -1,28 +1,3 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=header&fontSize=0" width="100%"/>
-<blockquote>
-<b>कर्मण्येवाधिकारस्ते</b> मा फलेषु कदाचन ।<br/>
-<b>मा कर्मफलहेतुर्भूः</b> मा ते सङ्गोऽस्त्वकर्मणि ॥<br/><br/>
-<i>
-karmaṇy evādhikāras te<br/>
-mā phaleṣu kadācana<br/>
-mā karma-phala-hetur bhūr<br/>
-mā te saṅgo ’stv akarmaṇi
-</i>
-</blockquote>
-<i>
-“You have a right to perform your prescribed duty,  
-but you are not entitled to the fruits of action.  
-Never consider yourself the cause of the results of your activities,  
-and never be attached to not doing your duty.”
-</i>
-<br/>
-<b>— Bhagavad Gītā 2.47</b>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&fontSize=0" width="100%"/>
-</div>
-
-
-
 ### Hare Krishna! 👋
 I'm Sujan, a passionate fullstack developer specializing in building scalable web-applications. I love tackling complex problems and bringing ideas to life through code.
 
