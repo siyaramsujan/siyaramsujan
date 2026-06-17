@@ -93,7 +93,7 @@ const sujan = {
 ## `~/exploring`
 
 ```bash
-$ go get github.com/sujan/next-adventure
+$ go get github.com/siyaramsujan/next-adventure
 
 > designing-robust-systems
 > building-scalable-products
